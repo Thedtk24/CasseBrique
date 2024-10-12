@@ -55,4 +55,4 @@ Lancer le Jeu
 
 Après avoir compilé le projet, lancez le jeu avec la commande suivante :
 
-./Breakout
+./breakout
